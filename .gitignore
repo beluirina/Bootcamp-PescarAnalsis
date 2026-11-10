@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# Si el repo es público, considerá no subir el CSV crudo (tiene nombres):
+# data/raw/
